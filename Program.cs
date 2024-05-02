@@ -1,6 +1,6 @@
 ﻿using System;
 
-* Name:        temperatureConversion
+ * Name:        temperatureConversion
  * 
  * Author:      Lewis Ubebe
  * 
