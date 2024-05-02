@@ -1,4 +1,6 @@
 # TemperatureConversionC#
+This is a simple program I created in C to allow a user to convert between Celsius and Farenheit
+
 
  *              This program asks the user to choose a temperature conversion
  *              calculator, either Celcius to Fahrenheit or Fahrenheit to Celcius,
